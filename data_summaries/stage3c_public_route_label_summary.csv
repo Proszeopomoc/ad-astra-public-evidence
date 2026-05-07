@@ -1,0 +1,11 @@
+public_route,koi_disposition,count,fraction_within_route
+anomaly-candidate stream,FALSE POSITIVE,1445,1.0
+low-information reject stream,FALSE POSITIVE,754,1.0
+signal-like false-positive stream,FALSE POSITIVE,2303,1.0
+typical reject stream,CANDIDATE,723,0.8596908442330559
+typical reject stream,CONFIRMED,38,0.04518430439952437
+typical reject stream,FALSE POSITIVE,80,0.09512485136741974
+value-labeled anomalous-shape stream,CANDIDATE,26,0.9285714285714286
+value-labeled anomalous-shape stream,CONFIRMED,2,0.07142857142857142
+value-like stream,CANDIDATE,1125,0.293733681462141
+value-like stream,CONFIRMED,2705,0.706266318537859

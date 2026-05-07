@@ -1,0 +1,7 @@
+public_route,count,fraction
+value-like stream,3830,0.4162591022714922
+signal-like false-positive stream,2303,0.25029888055646127
+anomaly-candidate stream,1445,0.15704814694054994
+typical reject stream,841,0.0914031083577872
+low-information reject stream,754,0.08194761438974024
+value-labeled anomalous-shape stream,28,0.003043147483969134

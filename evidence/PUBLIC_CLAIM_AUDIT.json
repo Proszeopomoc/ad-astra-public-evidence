@@ -1,0 +1,18 @@
+{
+  "status": "PASSED",
+  "allowed_claims": [
+    "The benchmark demonstrates workload reduction while preserving high recall.",
+    "The benchmark demonstrates structured routing behavior.",
+    "The benchmark demonstrates separability between benchmark streams.",
+    "The benchmark does not confirm exoplanets.",
+    "The benchmark does not replace astrophysical validation."
+  ],
+  "forbidden_claims": [
+    "discovers planets",
+    "replaces NASA pipelines",
+    "confirms anomalies",
+    "detects black holes",
+    "proves physical classes",
+    "outperforms NASA"
+  ]
+}
