@@ -1,0 +1,7 @@
+=== KOI-6141 CASE STUDY SHA256 ===
+created_utc: 2026-05-07T13:06:21.706615+00:00
+
+3a3e0744e7b184f1f728dde66680a59ae4ff0f8b50534c907840cb6d6245f858  C:\ad_astra_public_evidence\case_studies\KOI-6141_KIC-6032730\CASE_META.json
+5d2b0a87b22fc83d9816b6b728381b70b535dba53768976326fc02bfb10a6c5e  C:\ad_astra_public_evidence\case_studies\KOI-6141_KIC-6032730\KOI-6141_public_object_match.csv
+7f2ee55df6e80dac488aada733b0d6c3282a864693dd938d9e7a163d7000d0f3  C:\ad_astra_public_evidence\case_studies\KOI-6141_KIC-6032730\README.md
+48dd7004a329737f9268b2164f8c480e0244cfba5454da563def5ff7ad46f535  C:\ad_astra_public_evidence\figures\AD_ASTRA_KOI6141_selected_object_signal_space.png

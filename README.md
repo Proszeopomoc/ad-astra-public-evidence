@@ -49,3 +49,13 @@ Michał Machura
 
 ### Wide signal-space projection
 ![Wide signal-space projection](visuals/AD_ASTRA_SIGNAL_SPACE_WIDE.png)
+
+## Public Case Study
+
+### KOI-6141 / KIC 6032730
+
+A public single-object case study was added to demonstrate how the benchmark workflow can move from aggregate signal-space routing to a concrete Kepler object for follow-up review.
+
+[KOI-6141 / KIC 6032730 case study](case_studies/KOI-6141_KIC-6032730/README.md)
+
+![KOI-6141 selected object](figures/AD_ASTRA_KOI6141_selected_object_signal_space.png)
