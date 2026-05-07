@@ -38,3 +38,14 @@ This repository does not claim:
 
 Michał Machura
 
+
+## Visual Evidence
+
+### Before vs after screening
+![Before vs after screening](visuals/AD_ASTRA_BEFORE_AFTER.png)
+
+### Signal-space route panels
+![Signal-space route panels](visuals/AD_ASTRA_SIGNAL_SPACE.png)
+
+### Wide signal-space projection
+![Wide signal-space projection](visuals/AD_ASTRA_SIGNAL_SPACE_WIDE.png)
